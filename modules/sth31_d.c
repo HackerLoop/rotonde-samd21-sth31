@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/sth31_d.h"
-#include "modules/modules/sth31_d.h"
+#include "../drivers/sth31_d.h"
+#include "./sth31_d.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"

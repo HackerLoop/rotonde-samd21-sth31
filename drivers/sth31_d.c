@@ -5,7 +5,7 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/sth31_d.h"
+#include "./sth31_d.h"
 
 enum status_code STH31_init(void){
 	return STH31_reset();
